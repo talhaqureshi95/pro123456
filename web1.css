@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+/* navbar strt */
+
+
+.navbar{
+    background:linear-gradient(blue,purple);
+    overflow: hidden;
+  
+}
+
+li{
+    list-style: none;
+     float: left;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+/* navbar end */
